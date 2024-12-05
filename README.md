@@ -1,7 +1,5 @@
-# BOSPSO
-
-%------------------------------- Reference --------------------------------
-
+# BOSPSO  
+%------------------------------- Reference --------------------------------  
 % Zhening Liu, Handing Wang*, Balancing Objective and Switch Cost for Robust Optimization Over Time
 
 % This paper is under review.
